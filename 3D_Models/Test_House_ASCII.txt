@@ -1,0 +1,64 @@
+# World: New World (1)
+# Terrain file name: C:\Users\jacob\OneDrive\Documents\RCET\5th Semester\Final Project\3D_Models\mineways\mineways\terrainExt.png
+# Color scheme: Standard
+# Wed Nov 12 10:03:24 2025
+
+# Selection location min to max: 291, 66, 672 to 320, 319, 685
+#   Non-empty selection location min to max: 291, 66, 672 to 320, 77, 685
+
+# Set 3D print type: ASCII STL
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 4.12
+#   if made using the full color sandstone material:     $ 10.02 *** WARNING, thin wall ***
+#   if made using the custom printer material:     0.28
+# For custom printer printer, minimum wall is 1.5 mm, maximum size is 20 x 20 x 20 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 4.50 x 1.80 x 2.10 cm
+#   in inches: 1.77 x 0.71 x 0.83 inches
+# each block is 1.50 mm on a side, and has a volume of 3.375 mm^3
+# sum of dimensions: 84 mm
+# volume is 9.3555 cm^3
+# surface area is 39.735 cm^2
+# block density: 55% of volume
+
+# 1767 vertices, 1766 faces (3532 triangles), 2772 blocks
+# block dimensions: X=30 by Y=12 (height) by Z=14 blocks
+# Elevation shading: no
+# Lighting: no
+# Transparent water: no
+# Map grid: no
+# File type: Export no materials
+# Texture output RGB: YES
+# Texture output A: no
+# Texture output RGBA: no
+# Export lesser blocks: no
+# Center model: YES
+# Use biomes: no
+# Rotate model 0.000000 degrees
+# Make Z the up direction instead of Y: YES
+# Scale model by making each block 1.5 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 1.5 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 1
+#   Air bubbles found and filled (with glass): 1
+#   Total solid parts merged: 0
+#   Number of edge passes made: 1
+#     Edges found to fix: 0
+#     Weld blocks added: 0
+#     Tip blocks added: 0
+#   Floating parts removed: 1
+#     In these floaters, total blocks removed: 9
+
+# Full world path: C:\Users\jacob\AppData\Roaming\.minecraft\saves\New World (1)
+# Full terrainExt.png path: C:\Users\jacob\OneDrive\Documents\RCET\5th Semester\Final Project\3D_Models\mineways\mineways\terrainExt.png
+# Full current path: C:\Users\jacob\OneDrive\Documents\RCET\5th Semester\Final Project\3D_Models\mineways\mineways
